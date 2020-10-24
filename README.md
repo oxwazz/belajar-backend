@@ -5,9 +5,9 @@
 - Macam-macam API
 - Perbedaan atau kelebihan masing-masing API
 - Lebih lanjut tentang API
- - HATEOAS
- - Open API Spec and Swagger
- - Authentication
+  - HATEOAS
+  - Open API Spec and Swagger
+  - Authentication
 
 ## Databases
 - Apa itu Satabase
